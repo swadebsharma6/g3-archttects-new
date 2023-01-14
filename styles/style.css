@@ -284,3 +284,62 @@
     font-size: 45px;
     font-weight: 700px;
 }
+/* sponspor-section */
+.sponsors-container{
+   width: 100%; 
+   margin-bottom: 100px;
+}
+.sponsor-contents{
+    width: 1440px;
+    height: 400px;
+    border: 1px solid red;
+    margin: 0 auto;
+   
+}
+.content{
+    width: 542px;
+    height: 130px;
+    margin: 0 auto;
+    border: 1px solid green;
+    padding-bottom: 20px;
+}
+.content-title{
+   font-size: 45px;
+   font-weight: 700px;
+}
+.content-details{
+    font-size: 16px;
+    font-weight: 400;
+    color: #727272 ;
+}
+.sponsor-images{
+    display: flex;
+    justify-content: space-between;
+    align-self: center;
+    height: 100px;
+    border: 1px solid rebeccapurple;
+}
+.img{
+    width: 166px;
+    height: 50px;
+    border: 1px solid red;
+}
+#logo-margin{
+    margin-top: 50px ;
+}
+
+.footer{
+    width: 100%;
+    margin-bottom: 80px ;
+}
+.footer-content{
+    margin: 0 auto;
+    width: 1440px;
+    height: 100px;
+    background-color: #FFF4E7;  
+}
+.footer-info{
+    text-align: center;
+    padding-top: 15px;
+    
+}
