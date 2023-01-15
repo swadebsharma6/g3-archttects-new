@@ -344,6 +344,15 @@
     padding-top: 20px;
 }
 
+
+@media screen and (max-width: 576px) {
+    .feature-images{
+        grid-template-columns: repeat(1, 1fr);
+    }
+    .logos-boxes{
+        flex-direction: column;
+    }
+}
    
     
 
